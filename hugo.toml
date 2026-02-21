@@ -1,0 +1,21 @@
+baseURL = 'https://cptsai.github.io/'
+languageCode = 'en-us'
+title = 'CP Tsai Blog'
+theme = "PaperMod"
+
+[params]
+    env = "production"
+    title = "CP Tsai Blog"
+    description = " Research, Food, Coffee, Exercise & Life"
+    author = "CP Tsai"
+    math = true
+
+    # 顯示「首頁大圖模式」
+    [params.homeInfoParams]
+        Title = "Hi there 👋"
+        Content = "歡迎來到我的研究與生活隨筆。"
+
+    # 設定社交連結
+    [[params.socialIcons]]
+        name = "github"
+        url = "https://github.com/cptsai"

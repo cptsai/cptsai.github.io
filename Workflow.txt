@@ -1,0 +1,7 @@
+git branch -M cptsai.github.io
+
+git add .
+
+git commit -m "Add Hugo site with PaperMod theme and GitHub Actions"
+
+git push -u origin main
