@@ -27,17 +27,17 @@ theme = "PaperMod"
     weight = 20
 
 [[menu.main]]
-    name = "Archive"
+    name = "Archives"
     url = "/archives/"
     weight = 30
 
 [[menu.main]]
-    name = "Project"
+    name = "Projects"
     url = "/projects/"
     weight = 40
 
 [[menu.main]]
-    name = "Publication"
+    name = "Publications"
     url = "/publications/"
     weight = 50
 
