@@ -13,6 +13,20 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Sun, 22 Feb 2026 00:10:07 +0800</pubDate>
       <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Test&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Sun, 22 Feb 2026 00:10:07 +0800</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/publications/</link>
+      <pubDate>Sun, 22 Feb 2026 00:10:07 +0800</pubDate>
+      <guid>http://localhost:1313/publications/</guid>
       <description></description>
     </item>
     <item>
