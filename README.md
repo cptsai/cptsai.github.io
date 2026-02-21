@@ -16,9 +16,15 @@ Here are some keypoints:
 4. Install Git, Go, Chocolatey, Dart Sass and Hugo, see (ref. 11-14)
    Where, Git-2.53.0-64-bit.ext, go1.26.0.windows-amd64.msi, Chocolatey v2.6.0, Sass 1.97.3 and hugo_extended_0.156.0_windows-amd64.zip are selected [2026/02/21]
    Noted, I move the "hugo.exe" to "C:\Hugo\bin" and add the "C:\hugo\bin" to PATH enviroment variable
-6. Build a new site
-7. Initial Git
+6. Build a new site, in my case, type "hugo new site CP-Tsai-Blog" in "C:\Hugo\bin"
+7. Initial git, type "git init"
 8. Clone the theme you like / or subnodule the theme
+   I choose the PaperMod for my blog, see (ref. 15)
+   type "git submodule add https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod"
+9. Post your 1st post, for example, type "hugo new posts/mems-resoswitches-intro.md"
+10. Turn on the preview function by "hugo server -D"
+11. To build a automatic workflow by "git push" function, change the Setting/Build and deployment/Source from "Deploy from a branch" to "GitHub Action" first
+12. 
 
 Reference:
 1. https://minglun-wu.medium.com/%E5%BB%BA%E7%AB%8B%E4%B8%80%E5%80%8B%E5%B1%AC%E6%96%BC%E8%87%AA%E5%B7%B1%E7%9A%84-%E7%A8%8B%E5%BC%8F-%E9%83%A8%E8%90%BD%E6%A0%BC-4d295ed96236
@@ -35,3 +41,4 @@ Reference:
 12. https://zhuanlan.zhihu.com/p/105021100
 13. https://hugo.makiot.com/docs/installation/windows/
 14. https://devbricker.github.io/post/hugo/deploy/hugo_environment/
+15. https://github.com/adityatelange/hugo-PaperMod/wiki/
