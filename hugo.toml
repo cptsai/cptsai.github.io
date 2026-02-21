@@ -6,16 +6,40 @@ theme = "PaperMod"
 [params]
     env = "production"
     title = "CP Tsai Blog"
-    description = " Research, Food, Coffee, Exercise & Life"
+    description = "Research, Food, Coffee, Exercise & Life"
     author = "CP Tsai"
     math = true
+    ShowToc = true
 
-    # 顯示「首頁大圖模式」
     [params.homeInfoParams]
         Title = "Hi there 👋"
-        Content = "歡迎來到我的研究與生活隨筆。"
+        Content = "I'm CP Tsai."
 
-    # 設定社交連結
-    [[params.socialIcons]]
-        name = "github"
-        url = "https://github.com/cptsai"
+# ---Menu Configuration---
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+[[menu.main]]
+    name = "All Posts"
+    url = "/posts/"
+    weight = 20
+
+[[menu.main]]
+    name = "Archive"
+    url = "/archives/"
+    weight = 30
+
+[[menu.main]]
+    name = "Project"
+    url = "/projects/"
+    weight = 40
+
+[[menu.main]]
+    name = "Publication"
+    url = "/publications/"
+    weight = 50
+
+[outputs]
+    home = ["HTML", "RSS", "JSON"]

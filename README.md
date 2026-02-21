@@ -1,33 +1,52 @@
 # Hello !
 This is my very first time building a personal blog and the first time building on GitHub.
+
 Nice to meet you here!
 
 For one who wants to build a personal blog like me.
+
 I recommend you go through the reference. Basically, I found (ref. 1) first and then just follow the instrument, haha.
+
 The work flow to Hugo to build your personal blog are
-Install Hugo, Git, Go, ... all the requirement -> Start new site -> Initial git repo -> Install theme
-Start new post -> configure the site -> run server -> push local to remote -> build and pubsith site. See (ref. 2) for overview.
+
+Install Hugo, Git, Go, ... all the requirement -> Start new site -> Initial git repo -> Install theme ->
+Start new post -> configure the site -> run server -> push local to remote -> build and pubsith site. 
+
+See (ref. 2) for overview.
 
 Here are some keypoints:
+
 0. Know the basic of GiHub from (ref. 3)
 1. Create the repository as <username>.github.io (ref.4)
 2. Althrough the Hexo is mentioned in (ref. 4) and the Jekyll is recommended by GitHub (ref. 5), the file structure of Hugo is used in the (ref. 6), see (ref. 7) and (ref. 8-10) for detail.
 3. So I choose Hugo too XD
 4. Install Git, Go, Chocolatey, Dart Sass and Hugo, see (ref. 11-14)
-   Where, Git-2.53.0-64-bit.ext, go1.26.0.windows-amd64.msi, Chocolatey v2.6.0, Sass 1.97.3 and hugo_extended_0.156.0_windows-amd64.zip are selected [2026/02/21]
+  
+   Where, Git-2.53.0-64-bit.ext, go1.26.0.windows-amd64.msi, Chocolatey v2.6.0, Sass 1.97.3 and hugo_extended_0.156.
+   
+   0_windows-amd64.zip are selected [2026/02/21]
+  
    Noted, I move the "hugo.exe" to "C:\Hugo\bin" and add the "C:\hugo\bin" to PATH enviroment variable
+
 6. Build a new site, in my case, type "hugo new site CP-Tsai-Blog" in "C:\Hugo\bin"
 7. Initial git, type "git init"
 8. Clone the theme you like / or subnodule the theme
+   
    I choose the PaperMod for my blog, see (ref. 15)
+   
    type "git submodule add https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod"
+   
 9. Post your 1st post, for example, type "hugo new posts/mems-resoswitches-intro.md"
 10. Turn on the preview function by "hugo server -D"
 11. To build a automatic workflow by "git push" function, change the Setting/Build and deployment/Source from "Deploy from a branch" to "GitHub Action" first
 12. Excute the uploading via
+
     git add .
+    
     git commit -m "The action you want to record"
+    
     git push -u origin cptsai.github.io
+    
     *typically, "cptsai.github.io" in third line would be "main",
     however, I used the name of branch same as my website so it become irregular
 
