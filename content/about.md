@@ -6,7 +6,8 @@ layout = "page"
 +++
 
 ### Hi! This is CP!
-
+With a deep passion for physics and mechanics, I have dedicated over eight years to exploring the fascinating field of nonlinear MEMS.
+I am now a MEMS enginner in Sensortek technology corporation. I would share learning notes, my experiemence and some of my life in this Blog.
 
 
 
