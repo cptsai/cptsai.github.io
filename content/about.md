@@ -5,21 +5,24 @@ title = 'About'
 layout = "page"
 +++
 
-### Hi! This is CP!
+#### Hi! This is CP!
 
-## CV
+
+
+
+#### CV
 * 2-page CV (TBU)
 * Full CV (TBU)
 
-## Education
+#### Education
 * Ph.D. (2021-2026): [**Resolab**](http://ntureso.com/), Institute of Applied Mechanics, NTU, Taipei, Taiwan (Advisor: Prof. Wei-Chang Li)
 * M.S. (2018-2021): [**Resolab**](http://ntureso.com/), Institute of Applied Mechanics, NTU, Taipei, Taiwan (Advisor: Prof. Wei-Chang Li)
 * B.S. (2014-2018): Mechanical Engineering, Southern Taiwan University of Science and Technology, Tainan City, Taiwan
 
-## Awards and Honors
+#### Awards and Honors
 * TBU
 
-## Work Experience
+#### Work Experience
 * 2024/11-now, Senior MEMS Engineer, [Sensortek Technology Corporation](https://www.sensortek.com.tw/index.php/en/index/), Hsinchu City, Taiwan
 * 2023/05-2023/08, Summer Internship in Department of MEMS Device Engineering, [Sensortek Technology Corporation](https://www.sensortek.com.tw/index.php/en/index/), Hsinchu City, Taiwan
 * 2019/09-2023/10, Ph.D. Student Representative in [Institute of Applied Mechanics, National Taiwan University, Taiwan](https://www.iam.ntu.edu.tw/en/)
