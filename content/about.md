@@ -5,18 +5,20 @@ title = 'About'
 layout = "page"
 +++
 
-## Hi!
-我是蔡淳樸，畢業於台大應力所，現在為微機電工程師。
- this is C.-P. Tsai. I am a MEMS enginner recently.
+### Hi! This is CP!
 
-#### Education
+## CV
+* TBU
+
+## Education
 * Ph.D. (2021-2026): [**Resolab**](http://ntureso.com/), Institute of Applied Mechanics, NTU, Taipei, Taiwan (Advisor: Prof. Wei-Chang Li)
 * M.S. (2018-2021): [**Resolab**](http://ntureso.com/), Institute of Applied Mechanics, NTU, Taipei, Taiwan (Advisor: Prof. Wei-Chang Li)
 * B.S. (2014-2018): Mechanical Engineering, Southern Taiwan University of Science and Technology, Tainan City, Taiwan
 
-#### Awards and Honors
+## Awards and Honors
+* TBU
 
-#### Experience
+## Experience
 * 2023/05-2023/08, Summer Internship in Department of MEMS Device Engineering, Sensortek Technology Corporation, Hsinchu City, Taiwan
 * 2019/09-2023/10, Ph.D. Student Representative in Institute of Applied Mechanics, National Taiwan University, Taiwan
 * 2020/09-2022/09, Graduate Teaching Assistant of Experiments on Applied Mechanics I (AM7012), National Taiwan University, Taiwan
