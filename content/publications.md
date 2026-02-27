@@ -7,13 +7,13 @@ layout = "page"
 
 Update date: 2026/02/27
 
-## Google scholar profile: [Chun-Pu Tsai](https://scholar.google.com/citations?user=M9VAzjgAAAAJ&hl=en)
+### Google scholar profile: [Chun-Pu Tsai](https://scholar.google.com/citations?user=M9VAzjgAAAAJ&hl=en)
 
-## Patents
+### Patents
 * W.-C. Li, C.-P. Tsai, H.-W. Wang, “Device and method for monitoring surface condition of contact surface of detected object,” US 2022/0002148 A1, Dec. 7th, 2020.
 
-## Journal Paper
-* *S.-C. Lu, C.-P. Tsai, Y.-C. Huang, W.-R. Du, and W.-C. Li, “Surface Condition Influence on the Nonlinear Response of MEMS CC-Beam Resoswitches,” IEEE Electron Device Letters (EDL), vol. 39, no. 10, pp. 1600-1603, Oct. 2018.
+### Journal Paper
+* S.-C. Lu, C.-P. Tsai, Y.-C. Huang, W.-R. Du, and W.-C. Li, “Surface Condition Influence on the Nonlinear Response of MEMS CC-Beam Resoswitches,” IEEE Electron Device Letters (EDL), vol. 39, no. 10, pp. 1600-1603, Oct. 2018.
 * J.-R. Liu, S.-C. Lu, C.-P. Tsai, and W.-C. Li, “A CMOS-MEMS clamped–clamped beam displacement amplifier for resonant switch applications,” J. Micromech. Microeng. (JMM), vol. 28, no. 6, pp. 065001, Mar. 2018. 
 * J.-R. Liu, C.-P. Tsai, W.-R. Du, T.-Y. Chen, J.-S. Chen, and W.-C. Li, “Vibration Mode Suppression in Micromechanical Resonators Using Embedded Anti-Resonating Structures,” IEEE J. Microelectromech. Syst. (JMEMS), vol. 30, no. 1, pp. 53-63, Feb. 2021.
 * C.-P. Tsai and W.-C. Li, “CMOS-MEMS Vibro-Impact Devices and Applications,” Front. Mech. Eng., vol. 8, 898328, Jun. 2022.
@@ -25,7 +25,7 @@ Update date: 2026/02/27
 * C.-P. Tsai and W.-C. Li, “CMOS-MEMS Resoswitches—Design, Modeling, and Characterization,”IEEE J. Microelectromech. Syst. (JMEMS), vol. 34, no. 6, pp. 730-743, Dec., 2025. (JMEMS Right Now Paper)(Front Cover)
 * I-C. Hsieh, T.-Y. Chen, C.-P. Tsai, H.-S. Zheng, and W.-C. Li, “Temperature-Stable CMOS-MEMS Resonators via Arc-Beam-Induced Electrical Stiffness Tuning,” IEEE J. Microelectromech. Syst. (JMEMS), vol. 34, no. 6, pp. 795-801, Dec., 2025.
  
-## International Conference Paper
+### International Conference Paper
 * S.-C. Lu, C.-P. Tsai, and W.-C. Li, “A CMOS-MEMS CC-beam metal resoswitch for zero quiescent power receiver applications,” in the 31st IEEE Int. Conf. on Micro Electro Mechanical Systems (MEMS’18), Belfast, North Ireland, UK, Jan. 21-25, 2018, pp. 801-804.
 * S.-C. Lu, W.-R. Du, Y.-C. Huang, C.-P. Tsai, and W.-C. Li, “MEMS surface coating condition monitoring via nonlinear tapping of resoswitches,” in 2018 IEEE Frequency Control Symposium (IFCS’18), Olympic Valley, CA, May 21-24, 2018. (Student Best Paper Finalist)
 * C.-P. Tsai, Y.-Y. Liao, and W.-C. Li, “A 125-kHz CMOS-MEMS Resoswitch Embedded Zero Quiescent Power OOK/FSK Receiver,” Proc., 33rd IEEE Int. Conf. on Micro Electro Mechanical Systems (MEMS’20), Vancouver, Canada, Jan. 18-22, 2020. (Oral Presentation)
@@ -51,7 +51,7 @@ Update date: 2026/02/27
 * C.-J. Hsueh, C.-P. Tsai, I.-F. Chung, T.-Y. Chen, and W.-C. Li, “CMOS-MEMS PUF Exploiting Mode Localization in a Multi-DOF Tuned-Mass-Damper Resonator,” in the 39th IEEE Int. Conf. on Micro Electro Mechanical Systems (MEMS’26), Salzburg, Austria, Jan. 25-29, 2026.
 * J.-W. Lin, C.-P. Tsai, N. Basu, and W.-C. Li, “A Fast-Settling CMOS-MEMS Resoswitch Using a Structurally Damped Output Electrode,” in the 39th IEEE Int. Conf. on Micro Electro Mechanical Systems (MEMS’26), Salzburg, Austria, Jan. 25-29, 2026.
 
-Domestic Conference Paper (Total: 10, First Author: 5):
+### Domestic Conference Paper
 * J.-R. Liu, S.-C. Lu, C.-P. Tsai, and W.-C. Li, “CMOS-MEMS-based arrayed-CC-Beam displacement amplifiers,” in the 3rd Association of Computational Mechanics Taiwan (ACMT) Conference (第3屆台灣計算力學會議), Tainan, Oct. 19-20, 2017.
 * C.-P. Tsai, W.-R. Du, and W.-C. Li, “Nonlinear contact dynamics modeling for comb-driven folded-beam micromechanical resoswitches,” in the 21st Nano Engineering and Microsystem Technology Conference (第21屆奈米工程暨微系統技術研討會), Taipei, Jun. 1-2, 2018. (Oral Presentation) (最佳論文獎)
 * C.-P. Tsai, and W.-C. Li, “A CMOS-MEMS Comb-Driven Resoswitch for Zero-Quiescent Communication Receiver,” in the 4th International Society of Mechatronic Engineering (ISME) National Conference (第4屆台灣機電工程國際學會全國學術研討會), Kaohsiung, Feb. 15-16, 2019. (Oral Presentation) (Best Oral Paper Award)
